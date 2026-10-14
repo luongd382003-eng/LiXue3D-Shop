@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lixue3dshop.vercel.app/sitemap.xml
